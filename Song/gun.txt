@@ -1,0 +1,91 @@
+air gun, airgun, air rifle
+BB gun
+paintball gunantiaircraft, antiaircraft gun, flak, flack, pom-pom, ack-ack, ack-ack gun
+Bofors gun
+breechloader
+cannon
+cannon
+firearm, piece, small-arm
+autoloader, self-loader
+automatic firearm, automatic gun, automatic weapon
+automatic pistol, automatic
+automatic rifle, automatic, machine rifle
+assault rifle, assault gun
+Browning automatic rifle, BAR
+machine gun
+automatic rifle, automatic, machine rifle
+assault rifle, assault gun
+Browning automatic rifle, BAR
+Browning machine gun, Peacemaker
+Gatling gun
+Maxim gun
+Spandau
+submachine gun
+Bren, Bren gun
+burp gun, machine pistol
+Kalashnikov
+light machine gun
+Sten gun
+Tommy gun, Thompson submachine gun
+Uzi
+semiautomatic firearm
+Garand rifle, Garand, M-1, M-1 rifle
+semiautomatic pistol, semiautomatic
+Luger
+muzzle loader
+arquebus, harquebus, hackbut, hagbut
+flintlock, firelock
+musket
+blunderbuss
+culverin
+fusil
+matchlock
+pistol, handgun, side arm, shooting iron
+automatic pistol, automatic
+derringer
+forty-five
+gat, rod
+horse pistol, horse-pistol
+peacekeeper
+revolver, six-gun, six-shooter
+Colt
+Saturday night special
+semiautomatic pistol, semiautomatic
+Luger
+Very pistol, Verey pistol
+zip gun
+repeating firearm, repeater
+Mauser
+rifle
+carbine
+Garand rifle, Garand, M-1, M-1 rifle
+sniper rifle, precision rifle
+Dragunov
+Winchester
+riot gun
+shotgun, scattergun
+fowling piece
+sawed-off shotgun
+smoothbore
+twenty-two, .22
+twenty-two pistol
+twenty-two rifle
+gas gun
+minute gun
+Quaker gun
+set gun, spring gun
+whaling gun
+action, action mechanism
+barrel, gun barrel
+cartridge ejector, ejector
+cartridge extractor, cartridge remover, extractor
+cartridge holder, cartridge clip, clip, magazine
+firing chamber, gun chamber
+gunlock, firing mechanism
+gun muzzle, muzzle
+gunsight, gun-sight
+gun trigger, trigger
+safety catch, safety lock
+stock, gunstock
+weapon, arm, weapon system
+artillery, heavy weapon, gun, ordnance

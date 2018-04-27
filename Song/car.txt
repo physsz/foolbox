@@ -1,0 +1,42 @@
+car, auto, automobile, machine, motorcar
+ambulance
+funny wagon
+beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+shooting brake
+bus, jalopy, heap
+cab, hack, taxi, taxicab
+gypsy cab
+minicab
+compact, compact car
+convertible
+coupe
+cruiser, police cruiser, patrol car, police car, prowl car, squad car
+panda car
+electric, electric automobile, electric car
+gas guzzler
+hardtop
+hatchback 
+horseless carriage
+hot rod, hot-rod
+jeep, landrover
+limousine, limo 
+berlin
+loaner 
+minicar 
+minicab 
+minivan 
+Model T 
+pace car 
+racer, race car, racing car
+finisher
+stock car 
+roadster, runabout, two-seater
+sedan, saloon
+brougham
+sports car, sport car
+sport utility, sport utility vehicle, S.U.V., SUV
+Stanley Steamer
+stock car
+subcompact, subcompact car
+touring car, phaeton, tourer
+used-car, secondhand car

@@ -1,0 +1,18 @@
+bicycle, bike, wheel, cycle
+bicycle-built-for-two, tandem bicycle, tandem
+mountain bike, all-terrain bike, off-roader
+ordinary, ordinary bicycle
+push-bike
+safety bicycle, safety bike
+velocipede
+bicycle seat, saddle
+bicycle wheel
+chain rings, links
+coaster brake
+handlebar
+kickstand
+mudguard, splash guard, splash-guard
+pedal, treadle, foot pedal, foot lever
+sprocket, sprocket wheel
+tire
+frame

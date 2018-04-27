@@ -1,0 +1,51 @@
+box
+product
+cardboard
+package
+ballot box
+bandbox
+carton
+six-pack, six pack, sixpack
+casket, jewel casket
+cereal box
+chest
+caisson, ammunition chest
+cedar chest
+coffer
+hope chest, wedding chest
+pyx, pix, pyx chest, pix chest
+sea chest
+tea chest
+toolbox, tool chest, tool cabinet, tool case
+toy box, toy chest
+treasure chest
+Ark, Ark of the Covenant
+Pandora's box
+cigar box
+coffin, casket
+bier
+sarcophagus
+crate
+packing box, packing case
+soapbox
+flat
+hod
+mailbox, letter box
+matchbox
+paintbox
+pencil box, pencil case
+playbox, play-box
+poor box, alms box, mite box
+pyxis
+shadow box
+shoebox
+snuffbox
+strongbox, deedbox
+cashbox, money box, till
+cash register, register
+safe
+safe-deposit, safe-deposit box, safety-deposit, safety deposit box, deposit box, lockbox
+tinderbox
+tuck box
+window box
+container
